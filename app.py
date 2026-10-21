@@ -9,8 +9,8 @@ fake = Faker('pt_BR')
 
 # =======================================================================
 # Altere o nome abaixo no GitHub para testar o CI/CD
-NOME_DA_EQUIPE = "Caio Limão"
-COR_DO_TEMA = "#7f1d1d" # Sugestão: mude para #064e3b (Verde) ou #7f1d1d (Vermelho)
+NOME_DA_EQUIPE = "Caio Limon"
+COR_DO_TEMA = "#00FFFF" # Sugestão: mude para #064e3b (Verde) ou #7f1d1d (Vermelho)
 # =======================================================================
 
 @app.route('/')
